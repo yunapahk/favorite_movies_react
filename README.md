@@ -1,4 +1,4 @@
-A page that lists several of your favorite movies.
+A page that lists your favorite movies.
 
 ## Setup
 
@@ -80,7 +80,7 @@ export default App;
 
 ## Other Components
 
-- create a components folder and in that folder create a movies.js file and a movie.js file with component boiler plate.
+- create a components folder and in that folder create a ,movies.js file and a movie.js file with component boiler plate.
 
 ```js
 // the component function
