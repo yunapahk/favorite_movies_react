@@ -1,4 +1,5 @@
 A page that lists your favorite movies.
+![Screenshot](movies_react.png)
 
 ## Setup
 
